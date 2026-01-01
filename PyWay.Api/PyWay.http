@@ -1,0 +1,6 @@
+@PyWay_HostAddress = http://localhost:5234
+
+GET {{PyWay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
